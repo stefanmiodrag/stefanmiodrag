@@ -1,4 +1,4 @@
-<p>Software consultant, strategist and possible computer simulation.</p>
+<p>Software developer, strategist and possible computer simulation.</p>
 
 <p>📨 Email –– <a href="mailto:stefanmiodrag@gmail.com">stefanmiodrag@gmail.com</a></p>
 <p>🕊 Twitter –– <a href="https://twitter.com/stefanmiodrag" target="_blank">twitter.com/stefanmiodrag</a></p>
